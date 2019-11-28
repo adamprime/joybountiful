@@ -1,5 +1,5 @@
 ---
-title: "Come, Follow Me Notebooks"
+title: "2019 Come, Follow Me Notebooks"
 description: "Notebooks come in many forms, from sketchpads to plain lined pages, music score books to dotted or graph paper. "
 slug: "come-follow-me"
 tags: ["Come, Follow Me", "journals", "notebooks"]
@@ -17,10 +17,8 @@ Each week lists the scriptures and topics to study. Along the bottom of each wee
 
 ## Journals with a Dot Grid interior
 
-These journals have a simple interior with a light grid of dots.
-
-*images of the interior pages here*
+These journals have a simple interior with a dot grid. Each spread of two pages is designed to give you a space to record your personal and/or family study for each week. The week's topic is listed at the top left and study prompts on the bottom right.
 
 Click on any of the covers below to see the journal and purchase on Amazon.
 
-*more images of the journals, linked to the right amazon page*
+{{< figure src="/img/blogs/come-follow-me/cfm-cover-optimized.png" link="https://www.amazon.com/Follow-Testament-Learning-Teaching-Journal/dp/1791601898" >}}
