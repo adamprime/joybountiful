@@ -3,5 +3,5 @@ title: "Joy Bountiful"
 headless: true
 ---
 
-Custom Journals, Notebooks, Shirts, and Popsockets
+Custom Journals and Notebooks
 ![Joy Bountiful Logo](/img/Joy_Bountiful-small.png)
