@@ -5,4 +5,4 @@ headless: true
 
 Custom Journals and Notebooks
 
-![Joy Bountiful Logo](/img/Joy_Bountiful-small.png)
+![Joy Bountiful Logo](/img/joy_bountiful_logo.png)
