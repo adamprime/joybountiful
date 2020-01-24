@@ -5,6 +5,7 @@ slug: "come-follow-me"
 tags: ["Come, Follow Me", "journals", "notebooks"]
 date: 2018-12-15T22:26:09-05:00
 draft: false
+featured_image: /img/blogs/come-follow-me/cfm-cover-optimized.png
 ---
 
 ![Come, Follow Me journal cover](/img/blogs/come-follow-me/cfm-cover-optimized.png)
